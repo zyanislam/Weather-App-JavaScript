@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" 
+          href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=Roboto:wght@300;400;500;700;900&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.5.0/semantic.min.css">
+    <link rel="stylesheet" href="styles.css">
+
+    <title>Weather App</title>
+    <link rel="icon" href="/Images/favicon.ico">
+</head>
+<body>
+    <div class="container">
+        <div class="search-box">
+            <i class="fa-solid fa-location-crosshairs"></i>
+            <input type="text" placeholder="Search Your Location">
+            <!-- <button class="fa-solid fa-magnifying-glass"></button> -->
+            <div class="ui animated button" tabindex="0" id="button">
+                <div class="visible content" id="inside-button">
+                    Search
+                </div>
+                <div class="hidden content">
+                    <icon class="fa-solid fa-magnifying-glass"></icon>
+                </div>
+            </div>
+        </div>
+
+        <div class="not-found">
+            <img src="Images/404-error-not-found.png" alt="not-found">
+            <p>Oops! Invalid Location Entered.</p>
+            <p>Try Again.</p>
+        </div>
+
+        <div class="weather-box">
+            <img src="" alt="">
+            <p class="temperature"></p>
+            <p class="description"></p>
+        </div>
+
+        <div class="weather-details">
+            <div class="humidity">
+                <i class="fa-solid fa-water"></i>
+                <div class="text">
+                    <span></span>
+                    <p>Humidity</p>
+                </div>
+            </div>
+
+            <div class="windy">
+                <i class="fa-solid fa-wind"></i>
+                <div class="text">
+                    <span></span>
+                    <p>Wind Speed</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <script src="https://kit.fontawesome.com/2ee978056b.js" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.5.0/semantic.min.js"></script>
+
+    <script src="index.js"></script>
+</body>
+</html>
