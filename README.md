@@ -11,7 +11,7 @@ https://zyanislam.github.io/WeatherApp_JavaScript/
 
 ### Example 
 
-PARIS, DHAKA, MELBOURN etc
+PARIS, DHAKA, MELBOURN, TORANTO etc
 
 ### Bad Entries
 
