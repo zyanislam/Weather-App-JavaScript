@@ -15,7 +15,9 @@ PARIS, DHAKA, MELBOURN, TORANTO etc
 
 ### Bad Entries
 
-NEW DEHLI etc
+NEW DEHLI, NEW YORK etc
+
+Also placing the words together will result in Bad Entry as well.
 
 
 # Feel Free To Knock Me If You Have Anything In Your Mind!!
