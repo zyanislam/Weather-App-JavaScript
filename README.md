@@ -11,11 +11,11 @@ https://zyanislam.github.io/WeatherApp_JavaScript/
 
 ### Example 
 
-PARIS, DHAKA, MELBOURN, TORANTO etc
+PARIS, DHAKA, MELBOURN, TORANTO etc.
 
 ### Bad Entries
 
-NEW DEHLI, NEW YORK etc
+NEW DEHLI, NEW YORK etc.
 
 Also placing the words together will result in Bad Entry as well.
 
