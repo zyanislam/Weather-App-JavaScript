@@ -5,7 +5,7 @@ In addition, it changes the background image according to the location.
 
 ## Check out the App for free on the link below:
 
-https://zyanislam.github.io/WeatherApp_JavaScript/
+https://zyanislam.github.io/Weather-App-JavaScript/
 
 ## Search for City/Places consisting of 1 word:
 
